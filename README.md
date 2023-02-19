@@ -40,7 +40,12 @@ cp .env.example .env
 
 ```
 # php artisan migrate --seed
-``` 
+```
+
+- Run the key generate command
+```
+# php artisan key:generate
+```
 
 - Run the PHP/Laravel server
 
