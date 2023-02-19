@@ -6,7 +6,7 @@ This app creates a Task List bound to a project (the list of projects comes from
 
 - [Laravel v10.x](https://laravel.com): This is a PHP MVC Framework.
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript): JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions
-- [bootstrap@5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/): Bootstrap is a powerful, feature-packed frontend toolkit
+- [Bootstrap 5.3.0](https://getbootstrap.com/docs/5.3/getting-started/introduction/): Bootstrap is a powerful, feature-packed frontend toolkit
 - [Touch Table Row Sorter](https://www.jqueryscript.net/table/touch-table-row-sorter.html): Touch-enabled Drag'n'drop Table Sorter - RowSorter.js
 - [Feather Icons v4.29.0](https://feathericons.com): Simply beautiful open source icons
 - [Sweet Alert 1.X](https://sweetalert.js.org/guides/): A beautiful replacement for JavaScript's "alert"
